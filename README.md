@@ -1,3 +1,3 @@
-Personal Website of <b> M[uhamma]d Abul Hayat </b> <br>
+Personal Website of <b> M<font color="red">[uhamma]</font>d Abul Hayat </b> <br>
 This site is still under construction. <br>
 My previous site was <a href="https://sites.google.com/site/abulhayatshiblu/">here</a> 
