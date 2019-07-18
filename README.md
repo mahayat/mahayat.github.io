@@ -7,3 +7,4 @@ I am working as a Summer Intern (Math&Algorithms) at <a href= "https://www.bell-
 
 #### Useful Links
 - [GitLab UArk](http://git.uark.edu/)
+- [LinkedIn Learning](https://its.uark.edu/linkedin-login)
