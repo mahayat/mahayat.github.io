@@ -2,12 +2,15 @@
 == Publications 
 
 === Under Review
-- \[J3\] *Md Abul Hayat*, Jingxian Wu, Yingli Cao, ``Unsupervised Bayesian Learning for Rice Panicle Segmentation with UAV Images,'' /[https://plantmethods.biomedcentral.com/ Plant Methods]/, 2019. \[[https://github.com/mahayat/UBLRPSUI GitHub Repo]] \n
+- \[J3\] *Md Abul Hayat*, Jingxian Wu, Yingli Cao, ``Unsupervised Bayesian Learning for Rice Panicle Segmentation with UAV Images,'' /[https://plantmethods.biomedcentral.com/ Plant Methods]/, 2019. \[[https://github.com/mahayat/UBLRPSUI GitHub]] \n
 === Journals
 - \[J2\] Patrick Bonasso, Kevin Sexton, Steven Mehl, Michael Golinko, *Md Abul Hayat*, et. al., [https://doi.org/10.1088%2F2057-1976%2Fab0ea8 ``Lessons learned measuring peripheral venous pressure waveforms in an anesthetized pediatric population,''] /Biomedical Physics & Engineering Express/, Volume 5, Number 3, April 2019. \n
 
 - \[J1\] Patrick Bonasso, Kevin Sexton, *Md Abul Hayat*, et. al., [https://doi.org/10.1016/j.jss.2019.01.036 ``Venous Physiology Predicts Dehydration in the Pediatric Population,''] /Journal of Surgical Research/, June 2019. \n
 === Conferences
-- \[C2\] Shah Mahdi Hasan, Mohammad Bin Monjil, Farhad Mohsin, *Md Abul Hayat*, ABM Harun-ur Rashid, [https://ieeexplore.ieee.org/document/7488064 ``Adaptive Beamforming with a Microphone Array,''] /IEEE 18th international conference on computer and information technology (ICCIT)/, Dhaka, Bangladesh, 2015. \n
+- \[C2\] Shah Mahdi Hasan, Mohammad Bin Monjil, Farhad Mohsin, *Md Abul Hayat*, ABM Harun-ur Rashid, [https://ieeexplore.ieee.org/document/7488064 ``Adaptive Beamforming with a Microphone Array,''] /IEEE 18th international conference on computer and information technology (ICCIT)/, Dhaka, Bangladesh, 2015. \[[https://github.com/farhadmohsin/Robust-Adaptive-Beamforming GitHub]]\n
 
 - \[C1\] Shah Mahdi Hasan, *Md Abul Hayat*, Md Farhad Hossain, [https://ieeexplore.ieee.org/document/7488044/ ``On the downlink SINR and outage probability of stochastic geometry based LTE cellular networks with multi-class services,''] /IEEE 18th international conference on computer and information technology (ICCIT)/, Dhaka, Bangladesh, 2015. \n
+
+=== Posters
+- \[P3\] *Md Abul Hayat*, Jingxian Wu, Yingli Cao, ``Rice Panicle Segmentation from UAV Images Using Multivariate Gaussian Mixture Model," /[https://fulbright.uark.edu/departments/math/research/spring-lecture-series/spring-lecture-series-archives/44th-spring-lecture-series.php 44th Spring Lecture Series, University of Arkansas]/. \[[https://fulbright.uark.edu/departments/math/_resources/images/research/sls/SLS2019-mahayat_asls.jpg Download]] \n
