@@ -4,9 +4,9 @@
 == Peripheral Venous Pressure Signal
 This project has been my main focus of PhD research. We are trying to correlate the fluid status of a patient with Peripheral Venous Pressure (PVP) signal. Some elementary results have shown promising results that PVP signal is able to distinguish between dehydrated and hydrated patients. We have also developed an unsupervised algorithm based on [https://en.wikipedia.org/wiki/Kalman_filter Kalman filter] and [https://en.wikipedia.org/wiki/Hidden_Markov_model hidden Markov model (HMM)] that can detect anomalous segments of PVP signal recording. \n
 - ``Unsupervised Anomaly Detection in Peripheral Venous Pressure Signals with Hidden Markov Models" - \[*Under Review*] \[[https://github.com/mahayat/ADPDUPVPS GitHub]]
-- [https://doi.org/10.1016/j.jss.2019.01.036 ``Venous Physiology Predicts Dehydration in the Pediatric Population,''] /Journal of Surgical Research/, June 2019.
-- [https://doi.org/10.1088%2F2057-1976%2Fab0ea8 ``Lessons learned measuring peripheral venous pressure waveforms in an anesthetized pediatric population,''] /Biomedical Physics & Engineering Express/, April 2019. 
-- [https://www.journalacs.org/article/S1072-7515(18)31606-5/pdf ``Venous Physiology Predicts Anesthetic Induced Hypotension in Infants,''] /Journal of the American College of Surgeons/, October 2018.
+- [https://doi.org/10.1016/j.jss.2019.01.036 ``Venous Physiology Predicts Dehydration in the Pediatric Population,''] /Journal of Surgical Research/, June 2019. \[[pdf/JSR.pdf pdf]]
+- [https://doi.org/10.1088%2F2057-1976%2Fab0ea8 ``Lessons learned measuring peripheral venous pressure waveforms in an anesthetized pediatric population,''] /Biomedical Physics & Engineering Express/, April 2019. \[[pdf/BPEE.pdf pdf]]
+- [https://www.journalacs.org/article/S1072-7515(18)31606-5/pdf ``Venous Physiology Predicts Anesthetic Induced Hypotension in Infants,''] /Journal of the American College of Surgeons/, October 2018. \[[pdf/JACS_eposter.pdf pdf]]
 
 - \[[https://electrical-engineering.uark.edu/news/press-releases/ua-engineering-researchers-unite-to-save-precious-time-in-medical-emergencies.php Press Release]] \[[https://nsf.gov/awardsearch/showAward?AWD_ID=1711087 NSF]] \[[https://researchfrontiers.uark.edu/peripheral-venous-pressure-waveform-analysis/ UAMS]]
 
@@ -25,7 +25,7 @@ After finishing my undergraduate studies I started working as a System Engineer 
 {}{img_left}{photos/SPHLW1C.jpeg}{SPHLW1}{800}{}
 ~~~
 
-A particular cell of a BTS was suffering for low MPD and as a reason we found that the cell was overshooting at long distances. Which can be understood from measurement reports (MR) of TA = 21 to  31. The cell was using Kathrein 739636 antenna. This antenna has 6 degree fixed electrical downtilt. The planned mechanical uptilt was -3 degree. After changing the mechanical tilting from -3 degree to 0 degree the number MRs of TA between 21 to 31 reduced significantly yielding regular MPD. The picture below illustrates the event. The red line indicates the moment we changed the mechanical tilting. 
+A particular cell of a BTS was suffering for low MPD and as a reason we found that the cell was overshooting at long distances. Which can be understood from measurement reports (MR) of TA = 21 to  31. The cell was using Kathrein 739636 antenna. This antenna has 6 degree fixed electrical downtilt. The planned mechanical uptilt was -3 degree. After changing the mechanical tilting from -3 degree to 0 degree the number MRs of TA between 21 to 31 reduced significantly yielding regular MPD. The red line indicates the moment we changed the mechanical tilting. 
 == Adaptive Beamforming with Microphone Array
 We as a team participated in the Cadence Xtensa Design Contest 2015. Our team was runner-up among total 16 submissions. The objective of the project was to implement an adaptive beamforming algorithm for a microphone array on an Xtensa processor. All the confirmed submissions were provided with Xtensa Software Developers Toolkit to work on.
  
