@@ -2,40 +2,41 @@
 == Research 
 
 == Peripheral Venous Pressure Signal
-This project has been my main focus of PhD research. We are trying to correlate the fluid status of a patient with Peripheral Venous Pressure (PVP) signal. Some elementary results have shown promising results that PVP signal is able to distinguish between dehydrated and hydrated patients. We have also developed an unsupervised algorithm based on [https://en.wikipedia.org/wiki/Kalman_filter Kalman filter] and [https://en.wikipedia.org/wiki/Hidden_Markov_model hidden Markov model (HMM)] that can detect anomalous segments of PVP signal recording. \n
-- ``Unsupervised Anomaly Detection in Peripheral Venous Pressure Signals with Hidden Markov Models" - \[*Under Review*] \[[https://github.com/mahayat/ADPDUPVPS GitHub]]
+This project has been my main focus of PhD research. We are trying to correlate the fluid status of a patient with Peripheral Venous Pressure (PVP) signal. Some elementary results have shown promising results that PVP signal is able to distinguish between dehydrated and hydrated patients. We have also developed an unsupervised algorithm based on [https://en.wikipedia.org/wiki/Kalman_filter Kalman filter] and [https://en.wikipedia.org/wiki/Hidden_Markov_model hidden Markov model (HMM)] that can detect anomalous segments of PVP signal recording. Explainable deep learning models have produced some interserting results on our dataset that are withing to get published.\n
+- ``Prediction of Body Fluid Status from PeripheralVenous Pressure Signal Using CNN'' - \[*Manuscript Ready*]
+- ``Unsupervised Anomaly Detection in Peripheral Venous Pressure Signals with Hidden Markov Models'' - \[*Under Review*] \[[https://github.com/mahayat/ADPDUPVPS GitHub]]
 - [https://doi.org/10.1016/j.jss.2019.01.036 ``Venous Physiology Predicts Dehydration in the Pediatric Population,''] /Journal of Surgical Research/, June 2019. \[[pdf/JSR.pdf pdf]]
 - [https://doi.org/10.1088%2F2057-1976%2Fab0ea8 ``Lessons learned measuring peripheral venous pressure waveforms in an anesthetized pediatric population,''] /Biomedical Physics & Engineering Express/, April 2019. \[[pdf/BPEE.pdf pdf]]
 - [https://www.journalacs.org/article/S1072-7515(18)31606-5/pdf ``Venous Physiology Predicts Anesthetic Induced Hypotension in Infants,''] /Journal of the American College of Surgeons/, October 2018. \[[pdf/JACS_eposter.pdf pdf]]
 
-- \[[https://electrical-engineering.uark.edu/news/press-releases/ua-engineering-researchers-unite-to-save-precious-time-in-medical-emergencies.php Press Release]] \[[https://nsf.gov/awardsearch/showAward?AWD_ID=1711087 NSF]] \[[https://researchfrontiers.uark.edu/peripheral-venous-pressure-waveform-analysis/ UAMS]]
+\[[https://electrical-engineering.uark.edu/news/press-releases/ua-engineering-researchers-unite-to-save-precious-time-in-medical-emergencies.php Press Release]] \[[https://nsf.gov/awardsearch/showAward?AWD_ID=1711087 NSF]] \[[https://researchfrontiers.uark.edu/peripheral-venous-pressure-waveform-analysis/ UAMS]]
 
 == Rice Panicle Segmentation
-We have developed a Gaussian mixture model based unsupervised image segmentation algorithm that can segment rice panicles. The proposed method outperforms existing methods like [https://plantmethods.biomedcentral.com/articles/10.1186/s13007-017-0254-7 Panicle-SEG] with an average F1 score greater than 80%. 
-- ``Unsupervised Bayesian Learning for Rice Panicle Segmentation with UAV Images,''- \[*Under Review*] \[[https://github.com/mahayat/UBLRPSUI GitHub]] 
+We have developed a Gaussian mixture model based unsupervised image segmentation algorithm that can segment rice panicles. The proposed method outperforms existing methods like [https://plantmethods.biomedcentral.com/articles/10.1186/s13007-017-0254-7 Panicle-SEG] with an average F1 score greater than 80%. Next objective is to come up with a self-supervised algorithm on large dataset. 
+- [https://plantmethods.biomedcentral.com/articles/10.1186/s13007-020-00567-8 ``Unsupervised Bayesian Learning for Rice Panicle Segmentation with UAV Images,''] /Plant Methods/, February 2020 \[[https://plantmethods.biomedcentral.com/track/pdf/10.1186/s13007-020-00567-8 pdf]] \[[https://github.com/mahayat/UBLRPSUI GitHub]] 
 ~~~
 {}{img_left}{photos/Panicle.png}{Panicle}{}{}
 ~~~
 
 == Deep Learning with Optical Coherence Tomography 
-I worked at [https://www.bell-labs.com/ Nokia Bell Labs] on Optical Coherence Tomography (OCT) image segmentation problem during summer of 2019. I applied deep learning techniques to solve the problem. 
+I worked at [https://www.bell-labs.com/ Nokia Bell Labs] on Optical Coherence Tomography (OCT) image segmentation during summer of 2019. I applied deep learning techniques -  [https://arxiv.org/abs/1505.04597 U-Net] and [https://arxiv.org/abs/1608.06993 DenseNet] to solve the problem. 
 == Practical Wireless Communication Problems
-After finishing my undergraduate studies I started working as a System Engineer at Grameenphone, part of the Norwegian Telenor Group, is the largest telecommunications operator in Bangladesh. I solved some interesting problems related to radio access and microwave backhaul there. A simple example is illustrated here.
+After finishing my undergraduate studies I started working as a System Engineer at [https://www.grameenphone.com/ Grameenphone], part of the Norwegian [https://www.telenor.com/ Telenor Group], is the largest telecommunications operator in Bangladesh. I solved some interesting problems related to radio access and microwave backhaul there. A simple example is illustrated here.
 ~~~
 {}{img_left}{photos/SPHLW1C.jpeg}{SPHLW1}{800}{}
 ~~~
 
-A particular cell of a BTS was suffering for low MPD and as a reason we found that the cell was overshooting at long distances. Which can be understood from measurement reports (MR) of TA = 21 to  31. The cell was using Kathrein 739636 antenna. This antenna has 6 degree fixed electrical downtilt. The planned mechanical uptilt was -3 degree. After changing the mechanical tilting from -3 degree to 0 degree the number MRs of TA between 21 to 31 reduced significantly yielding regular MPD. The red line indicates the moment we changed the mechanical tilting. 
+A particular cell of a BTS was suffering for low Minutes Per Drop (MPD). As a reason we found that the cell was overshooting at long distances. Which can be understood from measurement reports (MR) of TA = 21 to  31. The cell was using Kathrein 739636 antenna. This antenna has 6 degree fixed electrical downtilt. The planned mechanical uptilt was -3 degree. After changing the mechanical tilting from -3 degree to 0 degree the number MRs of TA between 21 to 31 reduced significantly yielding regular MPD. The red line indicates the moment we changed the mechanical tilting. 
 == Adaptive Beamforming with Microphone Array
-We as a team participated in the Cadence Xtensa Design Contest 2015. Our team was runner-up among total 16 submissions. The objective of the project was to implement an adaptive beamforming algorithm for a microphone array on an Xtensa processor. All the confirmed submissions were provided with Xtensa Software Developers Toolkit to work on.
+We as a team participated in the Cadence Xtensa Design Contest 2015. Our team was runner-up among total 16 submissions. The objective of the project was to implement an adaptive beamforming algorithm for a microphone array on an Xtensa processor. Every team was provided with Xtensa Software Developers Toolkit to work on.
  
 - [https://ieeexplore.ieee.org/document/7488064 Adaptive beamforming with a Microphone Array] \[[pdf/hasan2015adaptive.pdf pdf]]
 - \[[https://community.cadence.com/cadence_blogs_8/b/can/posts/xtensa-design-contest-2015-in-india Xtensa Design Contest 2015]] \[[photos/The_Daily_Samakal_21_June_2015.jpeg News Report]] \[[pdf/ABMA.pdf Problem Statement]] \[[https://github.com/farhadmohsin/Robust-Adaptive-Beamforming GitHub]]
 == Stochastic Modeling of Wireless Network
 We used [https://en.wikipedia.org/wiki/Poisson_point_process Poisson point process (PPP)] and Hard-core poisson process (HCPP) to simulate BTS locations and evaluated various network parameters like throughput, SINR, outage probability using Monte Carlo simulation incorporating the idea of resource blocks. We used [http://www5.tu-ilmenau.de/nt/generic/paper_pdfs/D1.1.2.pdf WINNER II channel model] for path loss.
 - [https://ieeexplore.ieee.org/document/7488044 On the downlink SINR and outage probability of stochastic geometry based LTE cellular networks with multi-class services] \[[pdf/hasan2015downlink.pdf pdf]] 
--- Best paper of `3rd Student Paper Contest 2014', IEEE ComSoc Bangladesh Chapter.
-- [https://www.researchgate.net/publication/330179640_Downlink_OFDMA_Network_Analysis_with_Stochastic_Geometry_Models Undergrad Thesis]
+-- Best paper of ``3rd Student Paper Contest 2014", IEEE ComSoc Bangladesh Chapter.
+- [https://www.researchgate.net/publication/330179640_Downlink_OFDMA_Network_Analysis_with_Stochastic_Geometry_Models Undergrad Thesis: Downlink OFDMA Network Analysis with Stochastic Geometry Models]
 == Links
 - \[[https://scholar.google.com/citations?user=ugxdQj8AAAAJ Google Scholar]] \[[https://www.researchgate.net/profile/Md_Abul_Hayat ResearchGate]] \[[https://orcid.org/0000-0002-1104-643X ORCID]]
 - \[[https://www.youtube.com/watch?v=-xYlqfhMaRA EE Promo]: Can you spot me at 4s?] \[[https://sites.google.com/site/abulhayatshiblu/ Old Website]] 

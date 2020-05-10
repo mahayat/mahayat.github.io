@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{teaching.html}, nofooter
+== ELEG 3124 : Systems and Signals (Fall 2020)
+
+~~~
+- Instructor: [https://wuj.hosted.uark.edu Dr. Jingxian Wu] 
+- Teaching Assistant: [https://directory.uark.edu/people/mahayat Md Abul Hayat]
+- Office Hours: 
+-- TBA
+-- Office : BELL 3122
+- Lab Section 1: 
+-- Friday : 5:15 PM - 7:35 PM
+-- Room : BELL 3135
+- Lab Section 2: 
+-- Wednesday : 2:00 PM - 4:45 PM
+-- Room : BELL 3135
+~~~
+
+~~~
+{}{img_left}{photos/conv.jpg}{alt text}{750}{500} 
+~~~
+
+== References
+
+
+- [http://galia.fc.uaslp.mx/~mlr/Lathi1.pdf Signal Processing and Linear Systems - B. P. Lathi]]

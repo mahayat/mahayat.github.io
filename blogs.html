@@ -13,9 +13,12 @@
 <td id="layout-menu">
 <div class="menu-category">Menu</div>
 <div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="pdf/mahayat_resume.pdf">Resume</a></div>
+<div class="menu-item"><a href="research.html">Research</a></div>
 <div class="menu-item"><a href="publications.html">Publications</a></div>
-<div class="menu-item"><a href="teaching.html">Teaching</a></div>
 <div class="menu-item"><a href="contact.html">Contact</a></div>
+<div class="menu-category">Teaching</div>
+<div class="menu-item"><a href="Fa20.html">Fa20</a></div>
 </td>
 <td id="layout-content">
 <div id="toptitle">
@@ -33,3 +36,20 @@ typeset using pure LaTeX.</p>
 guarantees! Support may be limited.</p>
 </div></div>
 <h2>Inline equations</h2>
+<p>The conjugate function $f^star(y) = sup_{x in X}(y^Tx - f(x))$ appears here
+inline, and is in the variable $y$. Dollar signs (<tt>$</tt>) surround the LaTeX
+equation in the jemdoc source.</p>
+<div class="codeblock">
+<div class="blocktitle">Syntax</div>
+<div class="blockcontent"><pre>
+The sample function $f^\star(y) = \sup_{x \in X}(y^Tx - f(x))$
+appears here inline, and is in the variable $y$.
+</pre></div></div>
+<h2>Equations on separate lines</h2>
+<p>To render an equation on its own line, use backslash-escaped round brackets
+(<tt>\(</tt> and <tt>\)</tt>). For example, the identity</p>
+</td>
+</tr>
+</table>
+</body>
+</html>
