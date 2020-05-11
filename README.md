@@ -1,4 +1,4 @@
 # mahayat.github.io
 Website of Md Abul Hayat
 
-Created using [https://jemdoc.jaboc.net/](jemdoc)
+Created using [jemdoc](https://jemdoc.jaboc.net/) and [jemdoc+MathJax](http://www.mit.edu/~wsshin/jemdoc+mathjax.html)
