@@ -3,7 +3,7 @@
 
 == Peripheral Venous Pressure Signal
 This project has been my main focus of PhD research. We are trying to correlate the fluid status of a patient with Peripheral Venous Pressure (PVP) signal. Some elementary results have shown promising results that PVP signal is able to distinguish between dehydrated and hydrated patients. We have also developed an unsupervised algorithm based on [https://en.wikipedia.org/wiki/Kalman_filter Kalman filter] and [https://en.wikipedia.org/wiki/Hidden_Markov_model hidden Markov model (HMM)] that can detect anomalous segments of PVP signal recording. Explainable deep learning models have produced some interserting results on our dataset that are withing to get published.\n
-- ``Prediction of Body Fluid Status from PeripheralVenous Pressure Signal Using CNN'' - \[*Manuscript Ready*]
+- ``Prediction of Body Fluid Status from Peripheral Venous Pressure Signal Using CNN'' - \[*Manuscript Ready*]
 - ``Unsupervised Anomaly Detection in Peripheral Venous Pressure Signals with Hidden Markov Models'' - \[*Under Review*] \[[https://github.com/mahayat/ADPDUPVPS GitHub]]
 - [https://doi.org/10.1016/j.jss.2019.01.036 ``Venous Physiology Predicts Dehydration in the Pediatric Population,''] /Journal of Surgical Research/, June 2019. \[[pdf/JSR.pdf pdf]]
 - [https://doi.org/10.1088%2F2057-1976%2Fab0ea8 ``Lessons learned measuring peripheral venous pressure waveforms in an anesthetized pediatric population,''] /Biomedical Physics & Engineering Express/, April 2019. \[[pdf/BPEE.pdf pdf]]
@@ -39,4 +39,4 @@ We used [https://en.wikipedia.org/wiki/Poisson_point_process Poisson point proce
 - [https://www.researchgate.net/publication/330179640_Downlink_OFDMA_Network_Analysis_with_Stochastic_Geometry_Models Undergrad Thesis: Downlink OFDMA Network Analysis with Stochastic Geometry Models]
 == Links
 - \[[https://scholar.google.com/citations?user=ugxdQj8AAAAJ Google Scholar]] \[[https://www.researchgate.net/profile/Md_Abul_Hayat ResearchGate]] \[[https://orcid.org/0000-0002-1104-643X ORCID]]
-- \[[https://www.youtube.com/watch?v=-xYlqfhMaRA EE Promo]: Can you spot me at 4s?] \[[https://sites.google.com/site/abulhayatshiblu/ Old Website]] 
+- \[[https://www.youtube.com/watch?v=-xYlqfhMaRA EE Promo]: Can you spot me at 4s?] \[[https://sites.google.com/site/abulhayatshiblu/ Old Website]] \[[https://sites.uark.edu/mahayat/ UArk Website]]
