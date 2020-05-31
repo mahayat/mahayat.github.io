@@ -6,7 +6,6 @@
 - Email: \n
 -- mahayat\[at\]uark\[dot\]edu \n
 -- abulhayatshiblu\[at\]gmail\[dot\]com 
-
 == Mailing Address
 ~~~
 Md Abul Hayat \n
@@ -16,5 +15,6 @@ Graduate Assistant \n
 Fayetteville, AR 72701, USA
 ~~~
 
-
-
+~~~
+This website is built using [https://jemdoc.jaboc.net/ jemdoc]+[http://www.mit.edu/~wsshin/jemdoc+mathjax.html MathJax]
+~~~
