@@ -13,16 +13,19 @@
 - Lab Section 2: 
 -- Wednesday : 2:00 PM - 4:45 PM
 -- Room : BELL 3135
-~~~
 
 ~~~
-{}{img_left}{photos/conv.jpg}{alt text}{750}{500} 
+
 ~~~
-
-== References
-
-
+== Additional References
 - Signal Processing and Linear Systems - B. P. Lathi \[[http://galia.fc.uaslp.mx/~mlr/Lathi1.pdf pdf]]
 - Transforms in Signals and Systems - P. Kraniauskas
+- Fourier Analysis and Spectral Estimation - C. Langton \[[http://complextoreal.com/wp-content/uploads/2016/11/FFTBookSample.pdf Book Sample]] \[[http://complextoreal.com/fftguide/ Codes]] \[[pdf/References_Langton.pdf References]] 
 - Stanford EE 261 Notes \[[https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf pdf]]
-- Fourier Analysis and Spectral Estimation - C. Langton \[[http://complextoreal.com/wp-content/uploads/2016/11/FFTBookSample.pdf Book Sample]] \[[http://complextoreal.com/fftguide/ Codes]] \[[pdf/References_Langton.pdf References]] \n
+- Videos: \[[https://www.youtube.com/watch?v=spUNpyF58BY 3Blue1Brown]] \[[https://www.youtube.com/user/allsignalprocessing Barry Van Veen]] \[[https://www.youtube.com/playlist?list=PLWMUMyAolbNuWse5uM3HBwkrJEVsWOLd6 Mark Newman]] 
+~~~
+
+~~~
+{}{img_left}{photos/conv.jpg}{alt text}{562.5}{375} 
+~~~
+Courtesy: Lathi P129
