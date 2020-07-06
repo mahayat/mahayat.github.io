@@ -4,7 +4,7 @@
 == Peripheral Venous Pressure Signal
 This project has been my main focus of PhD research. We are trying to correlate the fluid status of a patient with Peripheral Venous Pressure (PVP) signal. Some elementary results have shown promising results that PVP signal is able to distinguish between dehydrated and hydrated patients. We have also developed an unsupervised algorithm based on [https://en.wikipedia.org/wiki/Kalman_filter Kalman filter] and [https://en.wikipedia.org/wiki/Hidden_Markov_model hidden Markov model (HMM)] that can detect anomalous segments of PVP signal recording. Explainable deep learning models have produced some interserting results on our dataset that are withing to get published.\n
 - ``Prediction of Body Fluid Status from Peripheral Venous Pressure Signal Using CNN'' - \[*Manuscript Ready*]
-- ``Unsupervised Anomaly Detection in Peripheral Venous Pressure Signals with Hidden Markov Models'' - \[*Under Review*] \[[https://github.com/mahayat/ADPDUPVPS GitHub]]
+- ``Unsupervised Anomaly Detection in Peripheral Venous Pressure Signals with Hidden Markov Models'' - \[*Under Review*] \[[https://github.com/i2pt/UAD_PVPS_HMM GitHub]]
 - [https://doi.org/10.1016/j.jss.2019.01.036 ``Venous Physiology Predicts Dehydration in the Pediatric Population,''] /Journal of Surgical Research/, June 2019. \[[pdf/JSR.pdf pdf]]
 - [https://doi.org/10.1088%2F2057-1976%2Fab0ea8 ``Lessons learned measuring peripheral venous pressure waveforms in an anesthetized pediatric population,''] /Biomedical Physics & Engineering Express/, April 2019. \[[pdf/BPEE.pdf pdf]]
 - [https://www.journalacs.org/article/S1072-7515(18)31606-5/pdf ``Venous Physiology Predicts Anesthetic Induced Hypotension in Infants,''] /Journal of the American College of Surgeons/, October 2018. \[[pdf/JACS_eposter.pdf pdf]]
@@ -13,7 +13,7 @@ This project has been my main focus of PhD research. We are trying to correlate 
 
 == Rice Panicle Segmentation
 We have developed a Gaussian mixture model based unsupervised image segmentation algorithm that can segment rice panicles. The proposed method outperforms existing methods like [https://plantmethods.biomedcentral.com/articles/10.1186/s13007-017-0254-7 Panicle-SEG] with an average F1 score greater than 80%. Next objective is to come up with a self-supervised algorithm on large dataset. 
-- [https://plantmethods.biomedcentral.com/articles/10.1186/s13007-020-00567-8 ``Unsupervised Bayesian Learning for Rice Panicle Segmentation with UAV Images,''] /Plant Methods/, February 2020 \[[https://plantmethods.biomedcentral.com/track/pdf/10.1186/s13007-020-00567-8 pdf]] \[[https://github.com/mahayat/UBLRPSUI GitHub]] 
+- [https://plantmethods.biomedcentral.com/articles/10.1186/s13007-020-00567-8 ``Unsupervised Bayesian Learning for Rice Panicle Segmentation with UAV Images,''] /Plant Methods/, February 2020 \[[https://plantmethods.biomedcentral.com/track/pdf/10.1186/s13007-020-00567-8 pdf]] \[[https://github.com/i2pt/UBLRPSUI GitHub]] 
 ~~~
 {}{img_left}{photos/Panicle.png}{Panicle}{}{}
 ~~~
