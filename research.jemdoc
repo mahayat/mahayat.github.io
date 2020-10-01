@@ -4,12 +4,15 @@
 == Peripheral Venous Pressure Signal
 This project has been my main focus of PhD research. We are trying to correlate the fluid status of a patient with Peripheral Venous Pressure (PVP) signal. Some elementary results have shown promising results that PVP signal is able to distinguish between dehydrated and hydrated patients. We have also developed an unsupervised algorithm based on [https://en.wikipedia.org/wiki/Kalman_filter Kalman filter] and [https://en.wikipedia.org/wiki/Hidden_Markov_model hidden Markov model (HMM)] that can detect anomalous segments of PVP signal recording. Explainable deep learning models have produced some interserting results on our dataset that are withing to get published.\n
 - ``Prediction of Body Fluid Status from Peripheral Venous Pressure Signal Using CNN'' - \[*Manuscript Ready*]
-- [https://doi.org/10.1016/j.bspc.2020.102126 ``Unsupervised Anomaly Detection in Peripheral Venous Pressure Signals with Hidden Markov Models,''] /Biomedical Signal Processing and Control/, September 2020. \[[hayat2020unsupervised.pdf pdf]] \[[https://github.com/i2pt/UAD_PVPS_HMM GitHub]]
+- [https://doi.org/10.1016/j.bspc.2020.102126 ``Unsupervised Anomaly Detection in Peripheral Venous Pressure Signals with Hidden Markov Models,''] /Biomedical Signal Processing and Control/, September 2020. \[[pdf/hayat2020unsupervised.pdf pdf]] \[[https://github.com/i2pt/UAD_PVPS_HMM GitHub]]
 - [https://doi.org/10.1016/j.jss.2019.01.036 ``Venous Physiology Predicts Dehydration in the Pediatric Population,''] /Journal of Surgical Research/, June 2019. \[[pdf/JSR.pdf pdf]]
 - [https://doi.org/10.1088%2F2057-1976%2Fab0ea8 ``Lessons learned measuring peripheral venous pressure waveforms in an anesthetized pediatric population,''] /Biomedical Physics & Engineering Express/, April 2019. \[[pdf/BPEE.pdf pdf]]
 - [https://www.journalacs.org/article/S1072-7515(18)31606-5/pdf ``Venous Physiology Predicts Anesthetic Induced Hypotension in Infants,''] /Journal of the American College of Surgeons/, October 2018. \[[pdf/JACS_eposter.pdf pdf]]
 
-\[[https://electrical-engineering.uark.edu/news/press-releases/ua-engineering-researchers-unite-to-save-precious-time-in-medical-emergencies.php Press Release]] \[[https://nsf.gov/awardsearch/showAward?AWD_ID=1711087 NSF]] \[[https://researchfrontiers.uark.edu/peripheral-venous-pressure-waveform-analysis/ UAMS]]
+\[[https://electrical-engineering.uark.edu/news/press-releases/ua-engineering-researchers-unite-to-save-precious-time-in-medical-emergencies.php Press Release]] \[[https://nsf.gov/awardsearch/showAward?AWD_ID=1711087 NSF]] \[[https://researchfrontiers.uark.edu/peripheral-venous-pressure-waveform-analysis/ UAMS]] \[[https://mahayat.github.io/pvp.html UArk-UAMS Collaboration]]
+
+== Self-supervised Learning
+During summer of 2020, I worked at [https://www.lbl.gov/ Lawrence Berkeley National Laboratory] on self-supervised learning on astronomical images. Publications are on progress.
 
 == Rice Panicle Segmentation
 We have developed a Gaussian mixture model based unsupervised image segmentation algorithm that can segment rice panicles. The proposed method outperforms existing methods like [https://plantmethods.biomedcentral.com/articles/10.1186/s13007-017-0254-7 Panicle-SEG] with an average F1 score greater than 80%. Next objective is to come up with a self-supervised algorithm on large dataset. 
