@@ -13,6 +13,8 @@ This project has been my main focus of PhD research. We are trying to correlate 
 
 == Self-supervised Learning
 During summer of 2020, I worked at [https://www.lbl.gov/ Lawrence Berkeley National Laboratory] on self-supervised learning on astronomical images. Publications are on progress.
+- ``Estimating Galactic Distances From Images Using Self-supervised Representation Learning", [https://ml4physicalsciences.github.io/2020/ Machine Learning and the Physical Sciences Workshop], 34th Conference on Neural Information Processing Systems (NeurIPS),
+December, 2020. \[[https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_17.pdf pdf]]\[[https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_17_poster.pdf poster]]
 
 == Rice Panicle Segmentation
 We have developed a Gaussian mixture model based unsupervised image segmentation algorithm that can segment rice panicles. The proposed method outperforms existing methods like [https://plantmethods.biomedcentral.com/articles/10.1186/s13007-017-0254-7 Panicle-SEG] with an average F1 score greater than 80%. Next objective is to come up with a self-supervised algorithm on large dataset. 
