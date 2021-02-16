@@ -13,7 +13,8 @@ This project has been my main focus of PhD research. We are trying to correlate 
 
 == Self-supervised Learning
 During summer of 2020, I worked at [https://www.lbl.gov/ Lawrence Berkeley National Laboratory] on self-supervised learning on astronomical images. Publications are on progress.
-- ``Estimating Galactic Distances From Images Using Self-supervised Representation Learning", [https://ml4physicalsciences.github.io/2020/ Machine Learning and the Physical Sciences Workshop], 34th Conference on Neural Information Processing Systems (NeurIPS),
+- ``Self-Supervised Representation Learning for Astronomical Images,'' The Astrophysical Journal Letters, December 2020. \[[https://arxiv.org/abs/2012.13083 arXiv]]
+- ``Estimating Galactic Distances From Images Using Self-supervised Representation Learning," [https://ml4physicalsciences.github.io/2020/ Machine Learning and the Physical Sciences Workshop], 34th Conference on Neural Information Processing Systems (NeurIPS),
 December, 2020. \[[https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_17.pdf pdf]]\[[https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_17_poster.pdf poster]]
 
 == Rice Panicle Segmentation
@@ -43,5 +44,5 @@ We used [https://en.wikipedia.org/wiki/Poisson_point_process Poisson point proce
 -- Best paper of ``3rd Student Paper Contest 2014", IEEE ComSoc Bangladesh Chapter.
 - [https://www.researchgate.net/publication/330179640_Downlink_OFDMA_Network_Analysis_with_Stochastic_Geometry_Models Undergrad Thesis: Downlink OFDMA Network Analysis with Stochastic Geometry Models]
 == Links
-- \[[https://scholar.google.com/citations?user=ugxdQj8AAAAJ Google Scholar]] \[[https://www.researchgate.net/profile/Md_Abul_Hayat ResearchGate]] \[[https://orcid.org/0000-0002-1104-643X ORCID]]
-- \[[https://www.youtube.com/watch?v=-xYlqfhMaRA EE Promo]: Can you spot me at 4s?] \[[https://sites.google.com/site/abulhayatshiblu/ Old Website]] \[[https://sites.uark.edu/mahayat/ UArk Website]]
+- \[[https://scholar.google.com/citations?user=ugxdQj8AAAAJ Google Scholar]] \[[https://www.researchgate.net/profile/Md_Abul_Hayat ResearchGate]] \[[https://orcid.org/0000-0002-1104-643X ORCID]] \[[https://twitter.com/mahayat_ Twitter]]
+- \[[https://www.youtube.com/watch?v=-xYlqfhMaRA EE Promo]: Can you spot me at 4s?] \[[https://sites.google.com/site/abulhayatshiblu/ Old Website]]
