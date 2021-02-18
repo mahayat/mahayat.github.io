@@ -5,7 +5,7 @@
 - \[C3\] *Md Abul Hayat*, Jingxian Wu, et. al., ``Prediction of Body Fluid Status from Peripheral Venous Pressure Signal Using CNN'' \n
 
 == Journals
-- \[J5\] *M. A. Hayat*, George Stein, et. al., ``Self-Supervised Representation Learning for Astronomical Images,'' The Astrophysical Journal Letters, December 2020 \[[https://arxiv.org/abs/2012.13083 arXiv]] \[[https://www.youtube.com/watch?v=LD4Zs8OCrOE YouTube]] \[[pdf/SSL_ppt.pdf ppt]] {Equal contribution first authors}\n
+- \[J5\] *M. A. Hayat*, George Stein, et. al., ``Self-Supervised Representation Learning for Astronomical Images,'' The Astrophysical Journal Letters, December 2020 \[[https://arxiv.org/abs/2012.13083 arXiv]] {Equal contribution first authors} \[[pdf/SSL_ppt.pdf ppt]] \[[https://www.youtube.com/watch?v=LD4Zs8OCrOE YouTube]].\n
 
 - \[J4\] *Md Abul Hayat*, Jingxian Wu, et. al., [https://doi.org/10.1016/j.bspc.2020.102126 ``Unsupervised Anomaly Detection in Peripheral Venous Pressure Signals with Hidden Markov Models,''] Biomedical Signal Processing & Control, September 2020. \[[pdf/hayat2020unsupervised.pdf pdf]] \[[https://github.com/i2pt/UAD_PVPS_HMM GitHub]] \n
 
