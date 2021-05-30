@@ -4,5 +4,5 @@
 
 ## Script
 ```
-python jemdoc.py index.jemdoc research.jemdoc publications.jemdoc contact.jemdoc blogs.jemdoc Fa19.jemdoc Sp20.jemdoc Fa20.jemdoc math_olympiad_books.jemdoc chinese_calligraphy.jemdoc teaching_philosophy.jemdoc quotes.jemdoc name.jemdoc
+python jemdoc.py index.jemdoc research.jemdoc publications.jemdoc contact.jemdoc blogs.jemdoc Fa19.jemdoc Sp20.jemdoc Fa20.jemdoc Fa21.jemdoc math_olympiad_books.jemdoc chinese_calligraphy.jemdoc teaching_philosophy.jemdoc quotes.jemdoc name.jemdoc
 ```
