@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{teaching.html}, nofooter
+== ELEG 3124 : Systems and Signals (Fall 2022)
+
+~~~
+- Instructor: [https://wuj.hosted.uark.edu Dr. Jingxian Wu] 
+- Teaching Assistant: [https://directory.uark.edu/people/mahayat Md Abul Hayat]
+- \[[https://wuj.hosted.uark.edu/teaching/eleg3124/eleg3124.html Website]] \[[https://learn.uark.edu/ Blackboard Learn]]
+- Class:
+-- Tue, Thu : 12:30 PM - 1:45 PM (Bell 2286)
+- Office Hours: 
+-- Wed : 4:00 PM - 5:00 PM (BELL 3122) 
+-- Fri : 1:00 PM - 2:00 PM (BELL 3122)
+- Lab Section 1: 
+-- Fri : 2:00 PM - 4:45 PM (BELL 3139)
+- Lab Section 2: 
+-- Wed : 5:00 PM - 7:45 PM (BELL 3135)
+- Class Size: 39
+- [https://registrar.uark.edu/academic-dates/3-year-academic-calendar/2022-2023-five-year-academic-calendar.php Academic Session]: August 22 - December 9, 2022
+~~~
+
+~~~
+== Additional References
+- Signal Processing and Linear Systems - B. P. Lathi \[[http://galia.fc.uaslp.mx/~mlr/Lathi1.pdf pdf]]
+- Transforms in Signals and Systems - P. Kraniauskas
+- Fourier Analysis and Spectral Estimation - C. Langton \[[http://complextoreal.com/wp-content/uploads/2016/11/FFTBookSample.pdf Book Sample]] \[[http://complextoreal.com/fftguide/ Codes]] \[[pdf/References_Langton.pdf References]] 
+- Videos: \[[https://www.youtube.com/watch?v=spUNpyF58BY 3Blue1Brown]] \[[https://prajwalsouza.github.io/Experiments/Fourier-Transform-Visualization.html demo]] \[[https://www.youtube.com/user/allsignalprocessing Barry Van Veen]]
+~~~
+
+~~~
+{}{img_left}{photos/conv.jpg}{alt text}{562.5}{375} 
+~~~
+
+Courtesy: Lathi Pg-129
+
+~~~
+Previous Classes: \[[Fa21.html  Fa21]] \[[Fa20.html  Fa20]] \[[Sp20.html  Sp20]] \[[Fa19.html  Fa19]]
+~~~
