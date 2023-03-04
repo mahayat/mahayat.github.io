@@ -9,12 +9,12 @@ PhD Candidate \n
 [https://electrical-engineering.uark.edu/ Electrical Engineering] \n
 [https://www.uark.edu/ University of Arkansas] \n
 
-\[[https://github.com/mahayat GitHub]] \[[https://www.linkedin.com/in/mahayat/ LinkedIn]] \[[https://scholar.google.com/citations?user=ugxdQj8AAAAJ Google Scholar]] \n
+\[[https://github.com/mahayat GitHub]] \[[https://scholar.google.com/citations?user=ugxdQj8AAAAJ Google Scholar]] \[[https://www.linkedin.com/in/mahayat/ LinkedIn]]
 ~~~
 
 == Education
 
-- [https://www.uark.edu/ University of Arkansas], /Fayetteville, AR/ \n PhD student, [https://electrical-engineering.uark.edu/ Electrical Engineering] (August 2017 - Expected: Summer 2023) \n Supervisor: [https://wuj.hosted.uark.edu Jingxian Wu]
+- [https://www.uark.edu/ University of Arkansas], /Fayetteville, AR/ \n [pdfs/dissertation_proposal_presentation.pdf PhD Candidate], [https://electrical-engineering.uark.edu/ Electrical Engineering] (August 2017 - Expected: Summer 2023) \n Supervisor: [https://wuj.hosted.uark.edu Jingxian Wu] 
 - [https://www.uark.edu/ University of Arkansas], /Fayetteville, AR/ \n MS, [https://statistics-analytics.uark.edu/index.php Statistics] (August 2017 - May 2021) \n Advisor: [https://fulbright.uark.edu/departments/math/directory/index/uid/gpetris/name/Giovanni+Petris/ Giovanni Petris]
 - [https://www.buet.ac.bd/web/ Bangladesh University of Engineering & Technology], /Dhaka, Bangladesh/ \n BSc, [http://eee.buet.ac.bd/ Electrical & Electronic Engineering] (May 2010 - September 2015) \n 
 [https://www.researchgate.net/profile/Md_Abul_Hayat/publication/330179640_Downlink_OFDMA_Network_Analysis_with_Stochastic_Geometry_Models/links/5c314d32a6fdccd6b5962e9b/Downlink-OFDMA-Network-Analysis-with-Stochastic-Geometry-Models.pdf Thesis] Supervisor: [https://mfarhadhossain.buet.ac.bd/ Md Farhad Hossain]
@@ -34,6 +34,25 @@ Mentor: [https://www.linkedin.com/in/atefehmohajeri/ Atefeh Mohajeri] \n
 [https://directory.uark.edu/people/mahayat Graduate Assistant], [https://electrical-engineering.uark.edu/ Electrical Engineering] (August 2017 - Present)
 - [https://www.grameenphone.com/ Grameenphone], /Dhaka, Bangladesh/ \n
 System Engineer (O&M), Technology Division (October 2015 - August 2017) \n
+
+== Research Projects
+- Predicting Cardiac Age from ECG and ABP Signals - (Ongoing)
+- IPFM-based Modeling of PVP and PAP Signals and Feature Extraction - (Under Review)
+- Self-supervised Learning for Astronomical Images
+-- \[[https://iopscience.iop.org/article/10.3847/2041-8213/abf2c7 paper]] \[[https://arxiv.org/abs/2012.13083 arxiv]] \[[https://github.com/mahayat/ssl-sky-surveys github]] \[[https://portal.nersc.gov/project/dasrepo/self-supervised-learning-sdss/ website]] \[[https://www.youtube.com/watch?v=LD4Zs8OCrOE youtube]] \[[pdfs/SSL_astro.pdf ppt]] \[[https://cs.lbl.gov/news-media/news/2021/self-supervised-machine-learning-adds-depth-breadth-and-speed-to-sky-surveys/ media]]
+-- \[[https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_17.pdf paper]] \[[https://arxiv.org/abs/2101.04293 arxiv]] \[[https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_17_poster.pdf poster]]
+- Unsupervised Bayesian Learning for Rice Panicle Segmentation from Drone Images
+-- \[[https://plantmethods.biomedcentral.com/counter/pdf/10.1186/s13007-020-00567-8.pdf paper]] \[[https://github.com/i2pt/UBLRPSUI github]] \[[https://fulbright.uark.edu/departments/math/_resources/images/research/sls/SLS2019-mahayat_asls.jpg poster]]
+- Anomaly Detection in PVP Signals with Hidden Markov Model
+-- \[[https://mahayat.github.io/pdf/hayat2020unsupervised.pdf paper]] \[[https://github.com/i2pt/UAD_PVPS_HMM github]]
+- Predicting Dehydration from Human PVP Signals
+-- \[[https://mahayat.github.io/pdf/JSR.pdf paper]] \[[https://mahayat.github.io/pdf/BPEE.pdf paper]]
+- Downlink OFDMA Network Analysis with Stochastic Geometry Models
+-- \[[https://ieeexplore.ieee.org/abstract/document/7488044 paper]] \[[https://www.researchgate.net/profile/Md-Abul-Hayat/publication/330179640_Downlink_OFDMA_Network_Analysis_with_Stochastic_Geometry_Models/links/5c314d32a6fdccd6b5962e9b/Downlink-OFDMA-Network-Analysis-with-Stochastic-Geometry-Models.pdf thesis]]
+- Adaptive Beamforming with Microphone Array
+-- \[[https://ieeexplore.ieee.org/abstract/document/7488064 paper]] \[[https://github.com/farhadmohsin/Robust-Adaptive-Beamforming github]] 
+-- \[[https://mahayat.github.io/pdfs/ABMA.pdf problem]] \[[https://community.cadence.com/cadence_blogs_8/b/can/posts/xtensa-design-contest-2015-in-india media]] \[[https://mahayat.github.io/photos/The_Daily_Samakal_21_June_2015.jpeg media]] \[[https://smhasan941865119.files.wordpress.com/2020/07/0.pdf certificate]]  
+
 
 == Research Interest 
 Digital Signal Processing, Statistical Learning, Deep Learning, High Performance Computing

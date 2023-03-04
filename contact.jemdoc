@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{contact.html}, nofooter
+# jemdoc: menu{MENU}{index.html}, nofooter
 == Contact
 
 - Office : BELL 3116 & CSRC 125 
@@ -7,7 +7,7 @@
 -- mahayat \[at\] uark \[dot\] edu \n
 -- abulhayatshiblu \[at\] gmail \[dot\] com 
 - Pronoun: He\/Him\/His
-- [https://mahayat.github.io/name.html FAQ : My Name]
+- [name.html FAQ : My Name]
 
 == Mailing Address
 ~~~
