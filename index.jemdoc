@@ -36,17 +36,17 @@ Mentor: [https://www.linkedin.com/in/atefehmohajeri/ Atefeh Mohajeri] \n
 System Engineer (O&M), Technology Division (October 2015 - August 2017) \n
 
 == Research Projects
-- Predicting Cardiac Age from ECG and ABP Signals - (Ongoing)
-- IPFM-based Modeling of PVP and PAP Signals and Feature Extraction - (Under Review)
+- Predicting Cardiac Age from ECG and Arterial Blood Pressure (ABP) Signals - (Ongoing) 
+- IPFM-based Modeling of Peripheral Venous Pressure (PVP) and Peripheral Arterial Pressure (PAP) Signals and Feature Extraction - (Under Review)
 - Self-supervised Learning for Astronomical Images
 -- \[[https://iopscience.iop.org/article/10.3847/2041-8213/abf2c7 paper]] \[[https://arxiv.org/abs/2012.13083 arxiv]] \[[https://github.com/mahayat/ssl-sky-surveys github]] \[[https://portal.nersc.gov/project/dasrepo/self-supervised-learning-sdss/ website]] \[[https://www.youtube.com/watch?v=LD4Zs8OCrOE youtube]] \[[pdfs/SSL_astro.pdf ppt]] \[[https://cs.lbl.gov/news-media/news/2021/self-supervised-machine-learning-adds-depth-breadth-and-speed-to-sky-surveys/ media]]
 -- \[[https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_17.pdf paper]] \[[https://arxiv.org/abs/2101.04293 arxiv]] \[[https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_17_poster.pdf poster]]
 - Unsupervised Bayesian Learning for Rice Panicle Segmentation from Drone Images
--- \[[https://plantmethods.biomedcentral.com/counter/pdf/10.1186/s13007-020-00567-8.pdf paper]] \[[https://github.com/i2pt/UBLRPSUI github]] \[[https://fulbright.uark.edu/departments/math/_resources/images/research/sls/SLS2019-mahayat_asls.jpg poster]]
+-- \[[https://plantmethods.biomedcentral.com/counter/pdfs/10.1186/s13007-020-00567-8.pdf paper]] \[[https://github.com/i2pt/UBLRPSUI github]] \[[https://fulbright.uark.edu/departments/math/_resources/images/research/sls/SLS2019-mahayat_asls.jpg poster]]
 - Anomaly Detection in PVP Signals with Hidden Markov Model
--- \[[https://mahayat.github.io/pdf/hayat2020unsupervised.pdf paper]] \[[https://github.com/i2pt/UAD_PVPS_HMM github]]
+-- \[[https://mahayat.github.io/pdfs/hayat2020unsupervised.pdf paper]] \[[https://github.com/i2pt/UAD_PVPS_HMM github]]
 - Predicting Dehydration from Human PVP Signals
--- \[[https://mahayat.github.io/pdf/JSR.pdf paper]] \[[https://mahayat.github.io/pdf/BPEE.pdf paper]]
+-- \[[https://mahayat.github.io/pdfs/JSR.pdf paper]] \[[https://mahayat.github.io/pdfs/BPEE.pdf paper]] \[[pvp.html full list]]
 - Downlink OFDMA Network Analysis with Stochastic Geometry Models
 -- \[[https://ieeexplore.ieee.org/abstract/document/7488044 paper]] \[[https://www.researchgate.net/profile/Md-Abul-Hayat/publication/330179640_Downlink_OFDMA_Network_Analysis_with_Stochastic_Geometry_Models/links/5c314d32a6fdccd6b5962e9b/Downlink-OFDMA-Network-Analysis-with-Stochastic-Geometry-Models.pdf thesis]]
 - Adaptive Beamforming with Microphone Array
