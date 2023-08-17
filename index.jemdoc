@@ -5,39 +5,42 @@
 {}{img_left}{photos/CF.jpg}{My_Photo}{145}{170}
 
 [https://mahayat.github.io/ Md Abul Hayat] \n
-PhD Candidate \n 
-[https://electrical-engineering.uark.edu/ Electrical Engineering] \n
-[https://www.uark.edu/ University of Arkansas] \n
+abulhayatshiblu \[at\] gmail \[dot\] com \n
 
 \[[https://github.com/mahayat GitHub]] \[[https://scholar.google.com/citations?user=ugxdQj8AAAAJ Google Scholar]] \[[https://www.linkedin.com/in/mahayat/ LinkedIn]]
 ~~~
 
-== Education
-
-- [https://www.uark.edu/ University of Arkansas], /Fayetteville, AR/ \n [pdfs/dissertation_proposal_presentation.pdf PhD Candidate], [https://electrical-engineering.uark.edu/ Electrical Engineering] (August 2017 - Expected: Summer 2023) \n Supervisor: [https://wuj.hosted.uark.edu Jingxian Wu] 
-- [https://www.uark.edu/ University of Arkansas], /Fayetteville, AR/ \n MS, [https://statistics-analytics.uark.edu/index.php Statistics] (August 2017 - May 2021) \n Advisor: [https://fulbright.uark.edu/departments/math/directory/index/uid/gpetris/name/Giovanni+Petris/ Giovanni Petris]
-- [https://www.buet.ac.bd/web/ Bangladesh University of Engineering & Technology], /Dhaka, Bangladesh/ \n BSc, [http://eee.buet.ac.bd/ Electrical & Electronic Engineering] (May 2010 - September 2015) \n 
-[https://www.researchgate.net/profile/Md_Abul_Hayat/publication/330179640_Downlink_OFDMA_Network_Analysis_with_Stochastic_Geometry_Models/links/5c314d32a6fdccd6b5962e9b/Downlink-OFDMA-Network-Analysis-with-Stochastic-Geometry-Models.pdf Thesis] Supervisor: [https://mfarhadhossain.buet.ac.bd/ Md Farhad Hossain]
-
-== Work Experience
-- [https://www.aboutamazon.com/ Amazon.com, Inc], /Seattle, WA/ \n
+== Experience
+- [https://en.wikipedia.org/wiki/JPMorgan_Chase JPMorgan Chase & Co.], /Brooklyn, NY/ \n
+Quantitative Modeling Sr. Associate (MRGR) (July 2023 - Present) \n
+- [https://en.wikipedia.org/wiki/Amazon_(company) Amazon.com, Inc], /Seattle, WA/ \n
 Applied Scientist Intern ([https://aws.amazon.com/lookout-for-metrics/ AWS]) (May 2021 - August 2021) \n
-Mentor: [https://www.linkedin.com/in/ketan-vijayvargiya/ Ketan Vijayvargiya]
+# Mentor: [https://www.linkedin.com/in/ketan-vijayvargiya/ Ketan Vijayvargiya]
 - [https://www.lbl.gov/ Lawrence Berkeley National Laboratory], /Berkeley, CA/ \n
 [https://hr.lbl.gov/service/appointments/affiliates/ Affiliate] (August 2020 - September 2021)\n
 Summer Intern ([https://www.nersc.gov/ NERSC]) (May 2020 - August 2020)\n
 Mentor: [https://www.linkedin.com/in/mumustafa Mustafa Mustafa]
 - [https://www.bell-labs.com/ Nokia Bell Labs], /Murray Hill, NJ/ \n
 Summer Intern (Math & Algorithms) (June 2019 - August 2019)\n
-Mentor: [https://www.linkedin.com/in/atefehmohajeri/ Atefeh Mohajeri] \n
+# Mentor: [https://www.linkedin.com/in/atefehmohajeri/ Atefeh Mohajeri] \n
 - [https://www.uark.edu/ University of Arkansas], /Fayetteville, AR/ \n
-[https://directory.uark.edu/people/mahayat Graduate Assistant], [https://electrical-engineering.uark.edu/ Electrical Engineering] (August 2017 - Present)
+Graduate Assistant, [https://electrical-engineering.uark.edu/ Electrical Engineering] (August 2017 - July 2023)
 - [https://www.grameenphone.com/ Grameenphone], /Dhaka, Bangladesh/ \n
-System Engineer (O&M), Technology Division (October 2015 - August 2017) \n
+System Engineer (O&M), Technology Division (October 2015 - August 2017)
+
+== Education
+
+- [https://www.uark.edu/ University of Arkansas], /Fayetteville, AR/ \n PhD, [https://electrical-engineering.uark.edu/ Electrical Engineering] (August 2017 - July 2023) \n Supervisor: [https://wuj.hosted.uark.edu Jingxian Wu] 
+- [https://www.uark.edu/ University of Arkansas], /Fayetteville, AR/ \n MS, [https://statistics-analytics.uark.edu/index.php Statistics] (August 2017 - May 2021) \n Advisor: [https://fulbright.uark.edu/departments/math/directory/index/uid/gpetris/name/Giovanni+Petris/ Giovanni Petris]
+- [https://www.buet.ac.bd/web/ Bangladesh University of Engineering & Technology], /Dhaka, Bangladesh/ \n BSc, [http://eee.buet.ac.bd/ Electrical & Electronic Engineering] (May 2010 - September 2015) \n 
+[https://www.researchgate.net/profile/Md_Abul_Hayat/publication/330179640_Downlink_OFDMA_Network_Analysis_with_Stochastic_Geometry_Models/links/5c314d32a6fdccd6b5962e9b/Downlink-OFDMA-Network-Analysis-with-Stochastic-Geometry-Models.pdf Thesis] Supervisor: [https://mfarhadhossain.buet.ac.bd/ Md Farhad Hossain]
 
 == Research Projects
-- Predicting Cardiac Age from ECG and Arterial Blood Pressure (ABP) Signals - (Ongoing) 
-- IPFM-based Modeling of Peripheral Venous Pressure (PVP) and Peripheral Arterial Pressure (PAP) Signals and Feature Extraction - (Under Review)
+- Predicting Cardiac Age from ECG and Arterial Blood Pressure (ABP) Signals - Work in Progress
+- PhD Dissertation
+-- \[[https://scholarworks.uark.edu/ dissertation]] \[[pdfs/phd_dissertation_presentation.pdf ppt]] \[[pdfs/dissertation_proposal_presentation.pdf ppt_cand]]
+- IPFM-based Modeling of Peripheral Blood Pressure Signals
+-- \[[pdfs/MPAVPSwIPFM.pdf paper]] \[[https://github.com/i2pt/MPAVPSwIPFM github]]
 - Self-supervised Learning for Astronomical Images
 -- \[[https://iopscience.iop.org/article/10.3847/2041-8213/abf2c7 paper]] \[[https://arxiv.org/abs/2012.13083 arxiv]] \[[https://github.com/mahayat/ssl-sky-surveys github]] \[[https://portal.nersc.gov/project/dasrepo/self-supervised-learning-sdss/ website]] \[[https://www.youtube.com/watch?v=LD4Zs8OCrOE youtube]] \[[pdfs/SSL_astro.pdf ppt]] \[[https://cs.lbl.gov/news-media/news/2021/self-supervised-machine-learning-adds-depth-breadth-and-speed-to-sky-surveys/ media]]
 -- \[[https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_17.pdf paper]] \[[https://arxiv.org/abs/2101.04293 arxiv]] \[[https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_17_poster.pdf poster]]
@@ -57,6 +60,13 @@ System Engineer (O&M), Technology Division (October 2015 - August 2017) \n
 == Research Interest 
 Digital Signal Processing, Statistical Learning, Deep Learning, High Performance Computing
 
+== Teaching
+Circuits I: \[[Su23.html Su23]] \[[Sp23.html Sp23]] \n
+Systems and Signals: \[[Fa22.html Fa22]] \[[Fa21.html  Fa21]] \[[Fa20.html  Fa20]]  \[[Fa19.html  Fa19]] \n
+Electronics I: \[[Sp20.html  Sp20]]
+
+== Misc
+[name.html FAQ : My Name]
 
 
 
